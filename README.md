@@ -4,7 +4,7 @@
 ## My Stats :
 
 ### 🚀Rajan Shah Github stats
-[![Profile Views](https://komarev.com/ghpvc/?username=rajanshah23&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/rajanshah23)<br/>
+[![Profile Views](https://komarev.com/ghpvc/?username=rajanshah23&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/rajanshah23)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api?username=rajanshah23&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/><br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rajanshah23&theme=radical&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajanshah23&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
