@@ -86,8 +86,6 @@ const rajanshah = {
 
 ## 🌐 Connect with Me
 
-<div align="center">
-
 <!-- Update these links with your actual profiles -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajanshah23)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/rajanshah23)
@@ -100,10 +98,6 @@ const rajanshah = {
 
 ## 💭 Random Dev Quote
 
-<div align="center">
-
-<div align="center">
-  
   ### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
   
   **Thanks for visiting! Let's build something amazing together! 🚀**
