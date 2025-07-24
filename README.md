@@ -1,4 +1,4 @@
-# Hi there 👋 Welcome to Rajan Shah's GitHub!
+# Hi there 👋 Welcome to Rajan Gupta GitHub!
 
 <div align="center">
   
@@ -8,27 +8,7 @@
   
 </div>
 
----
-
-## 🚀 GitHub Analytics
-
-<div align="center">
-  
-[![Profile Views](https://komarev.com/ghpvc/?username=rajanshah23&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/rajanshah23)
-[![GitHub followers](https://img.shields.io/github/followers/rajanshah23?style=social)](https://github.com/rajanshah23)
-
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajanshah23&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajanshah23&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-</div>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rajanshah23&theme=radical&hide_border=false" />
-</div>
-
----
+ 
 
 ## 🛠️ About Me
 
@@ -52,8 +32,7 @@ const rajanshah = {
 - 🏆 **Building innovative projects** that solve real-world problems
 - 🚀 **Exploring cutting-edge technologies** in Web Development & IoT
 - 📚 **Continuous learner** always staying updated with tech trends
-- 💡 **Open to collaborations** on exciting projects and hackathons
-
+ 
 ---
 
 ## 🚀 Tech Stack & Tools
@@ -93,28 +72,18 @@ const rajanshah = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajanshah23&theme=radical&hide_border=true" />
 </div>
 
----
+<!--## 🔥 Featured Projects -->
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajanshah23&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</div>
-
----
-
-## 🔥 Featured Projects
-
-<div align="center">
+<!--<div align="center"> -->
 
 <!-- Replace these with your actual repository names -->
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajanshah23&repo=your-repo-name&theme=radical)](https://github.com/rajanshah23/your-repo-name) -->
 
-**🚧 Coming Soon - Featured projects will be showcased here!**
+<!-- **🚧 Coming Soon - Featured projects will be showcased here!**
 
-</div>
+</div>  -->
 
----
+ 
 
 ## 📈 Contribution Graph
 
