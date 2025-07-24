@@ -83,15 +83,6 @@ const rajanshah = {
 
 </div>  -->
 
- 
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajanshah23&theme=radical&hide_border=true" />
-</div>
-
----
 
 ## 🌐 Connect with Me
 
@@ -110,12 +101,6 @@ const rajanshah = {
 ## 💭 Random Dev Quote
 
 <div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
 
 <div align="center">
   
@@ -123,10 +108,6 @@ const rajanshah = {
   
   **Thanks for visiting! Let's build something amazing together! 🚀**
   
-  [![](https://visitcount.itsvg.in/api?id=rajanshah23&icon=0&color=0)](https://visitcount.itsvg.in)
-  
-</div>
-
 ---
 
 ⭐️ **If you find my work interesting, don't forget to star my repositories!**
