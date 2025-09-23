@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  🚀 **Engineering Student** | ⚙️ **MERN Stack Developer** | 💡 **Tech Innovator** | 🌐 **Full Stack Enthusiast**
+  🚀 ** Electronics,Communication and Information Engineer** | ⚙️ **MERN Stack Developer** | 💡 **Tech Innovator** | 🌐 **Full Stack Enthusiast**
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;MERN+Stack+Developer;Always+learning+new+technologies;Building+innovative+solutions)](https://git.io/typing-svg)
   
@@ -27,7 +27,7 @@ const rajanshah = {
 };
 ```
 
-- 🎓 **Currently pursuing Engineering** with a focus on software development
+- 🎓 **Completed Electronics,Communication and Information Engineering** with a focus on hardware and software development
 - 🤖 **Specializing in MERN Stack** for full-stack web applications
 - 🏆 **Building innovative projects** that solve real-world problems
 - 🚀 **Exploring cutting-edge technologies** in Web Development & IoT
