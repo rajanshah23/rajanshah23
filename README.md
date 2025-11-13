@@ -89,7 +89,7 @@ const rajanshah = {
 <!-- Update these links with your actual profiles -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajanshah23)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/rajanshah23)
-[![Portfolio](https://img.shields.io/badge/www.rajangupta.com.np)](https://rajanshah23.github.io)
+[![Portfolio](https://img.shields.io/badge/portfolio-visit%20site-blue?style=for-the-badge&logo=google-chrome)](www.rajangupta.com.np)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajanshah23@gmail.com)
 
 </div>
